@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 导出产物
+codex-import/
+
+# 备份文件
+*.bak-*
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 临时文件
+.commit-msg.txt
